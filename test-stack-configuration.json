@@ -1,0 +1,10 @@
+{
+  "Parameters" : {
+    "DBName" : "TestWordPressDB",
+    "DBPassword" : "TestDBRootPassword",
+    "DBRootPassword" : "TestDBRootPassword",
+    "DBUser" : "TestDBuser",    
+    "KeyName" : "admin2",
+    "InstanceType" : "t2.micro"
+  }
+}
